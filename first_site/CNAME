@@ -1,1 +1,54 @@
-www.monkey-puzzle.tk
+monkey-puzzle.tk
+<!DOCTYPE html>
+<html>
+<head>
+<link href="/normalize.css" rel="stylesheet">
+<title>monkey puzzles</title>
+<style>
+header {
+	text-align: center;
+	background: url("./beach.jpg");
+	background-size: cover;
+	color: rgb(10, 60, 90);
+}
+h1 {
+	font-size: 70px;
+	font-family: bradley hand itc;
+}
+img {
+	margin: 40px 0px 0px 0px;
+	border: 7px solid white;
+	border-radius: 20px;
+}
+</style>
+</head>
+<body>
+<style>
+h3 {text-align: center;
+	font-family: calibri;
+}
+p {font-family: calibri;
+}
+ul {font-family: helvetica;
+	margin: 0 auto
+}
+</style>
+<header>
+	<img src="./pffff.jpg" alt="Sleepy Dog">
+	<h1>Monkey Puzzles</h1>
+</header>
+	<h3>An introduction to the Monkey Puzzle</h3>
+	<p> <em>Araucaria araucana</em> (commonly called the monkey puzzle tree, monkey tail tree or Chilean pine) is an evergreen tree growing to 40 m (130 ft) tall with a 2-m (7-ft) trunk diameter. The tree is native to central and southern Chile and western Argentina.</p>
+
+<h3>Characteristics</h3>
+<ul>
+	<li>The leaves are thick, tough, and scale-like, triangular, 3-4 cm long, 1-3 cm broad at the base, and with sharp edges and tips.</li>
+	<li>This tree is usually dioecious, with the male and female cones on separate trees, though occasional individuals bear cones of both sexes.
+	</li>
+	<li>The tree is wind pollinated. The female (seed) cones, which mature in autumn about 18 months after pollination, are globose, large, 12-20 cm in diameter, and hold about 200 seeds.</li>
+
+<img src="./monkey-puzzle.jpg" alt="The monkey puzzle tree">
+
+</body>
+</html>
+
